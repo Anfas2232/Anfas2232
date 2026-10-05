@@ -1,76 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mohamed%20Anfas&fontSize=55&fontAlignY=40&desc=IT%20Support%20Specialist%20%7C%20Software%20Engineer&descAlignY=62&animation=twinkling" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=💻+IT+Support+Specialist;⚡+Software+Engineering+Student;🚀+React+%7C+Node.js+%7C+MySQL;🛠️+Windows+%7C+Linux+%7C+Networking;🔥+Building+%7C+Learning+%7C+Growing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=MOHAMED%20ANFAS&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=IT%20SUPPORT%20SPECIALIST%20%7C%20SOFTWARE%20ENGINEER&descSize=18&descAlignY=62&animation=twinkling&color=0:000000,50:111827,100:00D9FF" width="100%"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Anfas2232&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Anfas2232&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+<div align="center">
 
-```javascript
-const anfas = {
-    name: "Mohamed Anfas",
-    role: "IT Support Specialist",
-    location: "Dubai, UAE",
-    education: "BEng (Hons) Software Engineering",
+# 👨‍💻 ABOUT ME
 
-    interests: [
-        "IT Support",
-        "Software Engineering",
-        "Web Development",
-        "Networking",
-        "System Troubleshooting"
-    ],
+</div>
 
-    currentlyLearning: [
-        "Advanced IT Support",
-        "React",
-        "Node.js",
-        "Docker"
-    ],
+<table>
+<tr>
+<td width="50%">
 
-    mindset: "Keep Learning 🚀"
-};
-```
+### 🚀 Who Am I?
+
+💼 **IT Support Specialist**
+
+📍 **Dubai, UAE**
+
+🎓 **BEng (Hons) Software Engineering**
+
+🖥️ IT Support & System Troubleshooting
+
+🌐 Networking & Infrastructure
+
+🎫 JIRA Ticketing & Incident Support
+
+🗄️ MySQL & SQL Fundamentals
+
+💻 Software Engineering & Web Development
+
+📚 Always Learning New Technologies
+
+</td>
+
+<td width="50%">
+
+### ⚡ What I Do
+
+🔧 Troubleshoot hardware & software issues
+
+🖥️ Support Windows & Linux systems
+
+🌐 Troubleshoot network connectivity
+
+🎫 Handle IT tickets & incidents
+
+🗄️ Work with MySQL & SQL concepts
+
+🌐 Build modern web applications
+
+🚀 Learn new technologies continuously
+
+💡 Solve technical problems
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ⚡ TECH STACK
+# 🛠️ SKILLS & TECHNOLOGIES
 
-### 💻 Development
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+### 💻 DEVELOPMENT
 
-### 🗄️ Database
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
 
-### 🐧 Systems & Tools
+</div>
 
-<img src="https://skillicons.dev/icons?i=windows,linux,git,github,docker,vscode" />
+### 🗄️ DATABASE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</div>
+
+### 🖥️ OPERATING SYSTEMS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
+
+</div>
+
+### 🔧 TOOLS & TECHNOLOGIES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
 
 </div>
 
 ---
 
-## 🛠️ IT SUPPORT SKILLS
-
 <div align="center">
 
+# 🌐 IT SUPPORT SKILLS
+
+<img src="https://img.shields.io/badge/IT%20Support-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Networking-00A8E8?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -81,53 +126,81 @@ const anfas = {
 
 <div align="center">
 
-## 🚀 FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 </div>
 
-### 🏢 Al Fan Emirates
+<table>
+<tr>
+<td width="50%">
 
-> React-based company website with multiple branch pages and modern UI.
+## 🏢 Al Fan Emirates
+
+Modern React-based company website with multiple branch pages and responsive UI.
+
+**Tech Stack**
 
 `React` `JavaScript` `Vite` `CSS`
 
----
+</td>
 
-### 🛒 Grocery Management System
+<td width="50%">
 
-> Full-stack application for managing grocery operations.
+## 🛒 Grocery Management System
+
+Full-stack management system.
+
+**Tech Stack**
 
 `React` `Node.js` `Express` `MySQL`
 
----
+</td>
+</tr>
 
-### 💰 Expense Management System
+<tr>
+<td width="50%">
 
-> Application for tracking and managing expenses.
+## 💰 Expense Management System
+
+Application for managing and tracking expenses.
+
+**Tech Stack**
 
 `React` `JavaScript` `MySQL`
 
----
+</td>
 
-### 🎓 Student Management System
+<td width="50%">
 
-> Student management web application.
+## 🎓 Student Management System
+
+Student management web application.
+
+**Tech Stack**
 
 `PHP` `MySQL` `Bootstrap`
 
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+# 📊 GITHUB STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anfas2232&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anfas2232&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anfas2232&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfas2232&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anfas2232&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfas2232&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -135,9 +208,9 @@ const anfas = {
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE
+# 📈 CONTRIBUTION GRAPH
 
-<img src="https://raw.githubusercontent.com/Anfas2232/Anfas2232/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anfas2232&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -145,40 +218,81 @@ const anfas = {
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+# 🎯 CURRENT GOALS
+
+</div>
+
+<table>
+<tr>
+<td>
+
+🔹 Improve IT Support Skills
+
+</td>
+<td>
+
+🔹 Learn Advanced Networking
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔹 Build Real-World Projects
+
+</td>
+<td>
+
+🔹 Improve React & Node.js
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔹 Learn Docker & Deployment
+
+</td>
+<td>
+
+🔹 Grow as a Software Engineer
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 CONNECT WITH ME
+
+<br>
 
 <a href="https://github.com/Anfas2232">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mohamed-anfas">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://anfass.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-### ⚡ KEEP LEARNING • KEEP BUILDING • KEEP GROWING ⚡
 
 </div>
 
+---
 
-<!--
-**Anfas2232/Anfas2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### ⚡ KEEP LEARNING • KEEP BUILDING • KEEP GROWING ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:111827,100:00D9FF&animation=twinkling" width="100%"/>
+
+</div>
